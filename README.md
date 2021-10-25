@@ -2,7 +2,7 @@
 
 Esta es una página web la cual es maquetada con Bootstrap; esta página es un To Do List, capaz de realizar las acciones básicas de un CRUD.
 
-Link - [CRUD JS](https://jonacaste.nidcode.com/projectos/CRUD%20JS/index.html)
+* Link - [CRUD JS](https://jonacaste.nidcode.com/projectos/CRUD%20JS/index.html)
 
 ## Construcción 🚀
 
